@@ -1,0 +1,14 @@
+C:\Users\gebas\TDEaula04\bin\Debug\net8.0\TDEaula04.exe
+C:\Users\gebas\TDEaula04\bin\Debug\net8.0\TDEaula04.deps.json
+C:\Users\gebas\TDEaula04\bin\Debug\net8.0\TDEaula04.runtimeconfig.json
+C:\Users\gebas\TDEaula04\bin\Debug\net8.0\TDEaula04.dll
+C:\Users\gebas\TDEaula04\bin\Debug\net8.0\TDEaula04.pdb
+C:\Users\gebas\TDEaula04\obj\Debug\net8.0\TDEaula04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gebas\TDEaula04\obj\Debug\net8.0\TDEaula04.AssemblyInfoInputs.cache
+C:\Users\gebas\TDEaula04\obj\Debug\net8.0\TDEaula04.AssemblyInfo.cs
+C:\Users\gebas\TDEaula04\obj\Debug\net8.0\TDEaula04.csproj.CoreCompileInputs.cache
+C:\Users\gebas\TDEaula04\obj\Debug\net8.0\TDEaula04.dll
+C:\Users\gebas\TDEaula04\obj\Debug\net8.0\refint\TDEaula04.dll
+C:\Users\gebas\TDEaula04\obj\Debug\net8.0\TDEaula04.pdb
+C:\Users\gebas\TDEaula04\obj\Debug\net8.0\TDEaula04.genruntimeconfig.cache
+C:\Users\gebas\TDEaula04\obj\Debug\net8.0\ref\TDEaula04.dll
